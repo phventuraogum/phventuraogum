@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Pedro Henrique Assis Ventura — Senior LLM Engineer & AI Systems Architect" width="100%" />
+<img src="https://phventuraogum.github.io/phventuraogum/assets/hero.svg" alt="Pedro Henrique Assis Ventura — Senior LLM Engineer & AI Systems Architect" width="100%" />
 <br />
 
-<a href="https://pedroventura.com.br"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=8B9CFF&labelColor=0B1220" alt="Portfolio" /></a>
-<a href="https://github.com/phventuraogum"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B1220" alt="GitHub" /></a>
-<a href="./site/index.html"><img src="https://img.shields.io/badge/LIVE_DEMO-0B1220?style=for-the-badge&logo=vercel&logoColor=8B9CFF&labelColor=0B1220" alt="Live animated profile" /></a>
+<a href="https://pedroventura.com.br"><img src="https://img.shields.io/badge/PORTFOLIO-0D0E10?style=for-the-badge&logo=googlechrome&logoColor=A2FF60&labelColor=0D0E10" alt="Portfolio" /></a>
+<a href="https://github.com/phventuraogum"><img src="https://img.shields.io/badge/GITHUB-0D0E10?style=for-the-badge&logo=github&logoColor=A2FF60&labelColor=0D0E10" alt="GitHub" /></a>
+<a href="https://phventuraogum.github.io/phventuraogum/site/index.html"><img src="https://img.shields.io/badge/LIVE_DEMO-0D0E10?style=for-the-badge&logo=vercel&logoColor=A2FF60&labelColor=0D0E10" alt="Live animated profile" /></a>
 
 </div>
 
@@ -113,7 +113,7 @@ DELIVERY LAYER    Docker · CI/CD · observability · production-minded workflow
 
 <a href="https://pedroventura.com.br">pedroventura.com.br</a>
 &nbsp;·&nbsp;
-<a href="./site/index.html">open animated profile</a>
+<a href="https://phventuraogum.github.io/phventuraogum/site/index.html">open animated profile</a>
 
 <br />
 <sub>Senior LLM Engineer & AI Systems Architect · Brazil</sub>
