@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://phventuraogum.github.io/phventuraogum/assets/hero.svg" alt="Pedro Henrique Assis Ventura — Senior LLM Engineer & AI Systems Architect" width="100%" />
+<img src="https://phventuraogum.github.io/phventuraogum/assets/hero.png" alt="Pedro Henrique Assis Ventura — Senior LLM Engineer & AI Systems Architect" width="100%" />
 <br />
 
 <a href="https://pedroventura.com.br"><img src="https://img.shields.io/badge/PORTFOLIO-0D0E10?style=for-the-badge&logo=googlechrome&logoColor=A2FF60&labelColor=0D0E10" alt="Portfolio" /></a>
